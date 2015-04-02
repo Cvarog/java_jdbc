@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9476dffe-fe4d-44a6-bd1c-7d079f565656" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../out/production/JavaLearn/tasks/ArrayCheck.class" afterPath="$PROJECT_DIR$/../out/production/JavaLearn/tasks/ArrayCheck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../out/production/JavaLearn/DogTest.class" afterPath="$PROJECT_DIR$/../out/production/JavaLearn/DogTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../out/production/JavaLearn/tasks/InterfaceTest/InterfaceClassTest.class" afterPath="$PROJECT_DIR$/../out/production/JavaLearn/tasks/InterfaceTest/InterfaceClassTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../out/production/JavaLearn/tasks/PrimitiveTypes.class" afterPath="$PROJECT_DIR$/../out/production/JavaLearn/tasks/PrimitiveTypes.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../src/tasks/ArrayCheck.java" afterPath="$PROJECT_DIR$/../src/tasks/ArrayCheck.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../src/tasks/Dog.java" afterPath="$PROJECT_DIR$/../src/tasks/Dog.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../src/tasks/InterfaceTest/InterfaceClassTest.java" afterPath="$PROJECT_DIR$/../src/tasks/InterfaceTest/InterfaceClassTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../src/tasks/PrimitiveTypes.java" afterPath="$PROJECT_DIR$/../src/tasks/PrimitiveTypes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../databaseexam/databaseexam.iml" afterPath="$PROJECT_DIR$/../databaseexam/databaseexam.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PrepairedStatementTest/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../PrepairedStatementTest/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postgresqltest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/dbtest/DBWorker.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding>
                 <element signature="e#348#349#0" expanded="true" />
                 <element signature="e#381#382#0" expanded="true" />
@@ -94,11 +88,11 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/dbtest/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45048815">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.40167364">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1427811170763" expanded="true" signature="280:299" placeholder="select * fro..users..." />
+                <marker date="1427977189759" expanded="true" signature="280:299" placeholder="select * fro..users..." />
               </folding>
             </state>
           </provider>
@@ -109,21 +103,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="16" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testdb.public.users" pinned="false" current-in-tab="false">
-        <entry file="dbDummy://dbtable:/cceb0cd6/1e0821e6-f332-43e0-a68a-06412f9640db/testdb.public.users">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -199,7 +178,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -278,7 +257,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -590,11 +569,12 @@
       <workItem from="1427809133962" duration="1405000" />
       <workItem from="1427811416635" duration="267000" />
       <workItem from="1427812411416" duration="137000" />
+      <workItem from="1427974134076" duration="3024000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5988000" />
+    <option name="totallyTimeSpent" value="9012000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -659,7 +639,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/dbtest/DBWorker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
           <folding>
             <element signature="e#348#349#0" expanded="true" />
             <element signature="e#381#382#0" expanded="true" />
@@ -681,7 +661,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1427811170763" expanded="true" signature="280:299" placeholder="select * fro..users..." />
+            <marker date="1427977189759" expanded="true" signature="280:299" placeholder="select * fro..users..." />
           </folding>
         </state>
       </provider>
@@ -694,15 +674,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/cceb0cd6/1e0821e6-f332-43e0-a68a-06412f9640db/testdb.public.users">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/dbtest/DBWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+          </folding>
         </state>
       </provider>
-      <provider editor-type-id="text-editor">
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dbtest/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dbtest/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1427977189759" expanded="true" signature="280:299" placeholder="select * fro..users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="16" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -732,21 +737,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1427811170763" expanded="true" signature="280:299" placeholder="select * fro..users..." />
+            <marker date="1427977189759" expanded="true" signature="280:299" placeholder="select * fro..users..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/cceb0cd6/1e0821e6-f332-43e0-a68a-06412f9640db/testdb.public.users">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -775,21 +767,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1427811170763" expanded="true" signature="280:299" placeholder="select * fro..users..." />
+            <marker date="1427977189759" expanded="true" signature="280:299" placeholder="select * fro..users..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/cceb0cd6/1e0821e6-f332-43e0-a68a-06412f9640db/testdb.public.users">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -818,7 +797,7 @@
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1427811170763" expanded="true" signature="280:299" placeholder="select * fro..users..." />
+            <marker date="1427977189759" expanded="true" signature="280:299" placeholder="select * fro..users..." />
           </folding>
         </state>
       </provider>
@@ -831,39 +810,6 @@
             <element signature="e#348#349#0" expanded="true" />
             <element signature="e#381#382#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/cceb0cd6/1e0821e6-f332-43e0-a68a-06412f9640db/testdb.public.users_id_seq">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/cceb0cd6/1e0821e6-f332-43e0-a68a-06412f9640db/testdb.public.users">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dbtest/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -878,7 +824,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/dbtest/DBWorker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="e#348#349#0" expanded="true" />
             <element signature="e#381#382#0" expanded="true" />
@@ -886,13 +832,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dbtest/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../databaseexam/databaseexam.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dbtest/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45048815">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.40167364">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1427811170763" expanded="true" signature="280:299" placeholder="select * fro..users..." />
+            <marker date="1427977189759" expanded="true" signature="280:299" placeholder="select * fro..users..." />
           </folding>
         </state>
       </provider>
